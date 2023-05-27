@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+input {
+    width: 100%;
+    padding: 5px 10px;
+    margin-bottom: 3px;
+    
+    border-color: green;
+}
+
+button {
+    background-color: green;
+    border: 0;
+    padding: 0.5rem;
+    font-weight: bold;
+    
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+    
+}
+li {
+    margin-top: 5px;
+   
+}
+ li a {
+    color: green;
+   
+}

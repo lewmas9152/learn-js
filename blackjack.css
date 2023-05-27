@@ -1,0 +1,29 @@
+body {
+    background-color:rgba(0, 128, 0, 0.89) ;
+    text-align: center;
+    font-weight: 10px;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+}
+
+#blackjack {
+    color: goldenrod;
+}
+
+#comment-el {
+    text-transform: ;
+     
+}
+ button {
+    background-color:  rgb(218, 165, 32);
+    border: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width:150px;
+    border-radius: 2px;
+    margin-top: 0.5rem;
+ }
+ button:hover {
+    background-color:rgb(218, 150, 0) ;
+ }
